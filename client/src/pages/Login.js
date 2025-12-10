@@ -31,7 +31,7 @@ const Login = () => {
     <div className="login-container">
       <div className="login-box">
         <div className="login-header">
-          <h1>🏗️ Quản Lý Vật Tư Xây Dựng</h1>
+          <h1>🏗️ Quản Lý Công Trình Xây Dựng</h1>
           <p>Đăng nhập để tiếp tục</p>
         </div>
         <form onSubmit={handleSubmit} className="login-form">
